@@ -107,5 +107,36 @@
 		"id": 6,
 		"accountName": "RENT",
 		"amount": "$1,860"
+	}],
+	"stocks": [{
+		"id": 1,
+		"name": "Twitter",
+		"code": "TWTR",
+		"priceMovement": "0.25%",
+		"priceTrend": "down"
+	}, {
+		"id": 2,
+		"name": "Facebook",
+		"code": "FB",
+		"priceMovement": "2.4%",
+		"priceTrend": "up"
+	}, {
+		"id": 3,
+		"name": "Netflix",
+		"code": "NFLX",
+		"priceMovement": "1.43%",
+		"priceTrend": "down"
+	}, {
+		"id": 4,
+		"name": "Google",
+		"code": "GOOG",
+		"priceMovement": "2.75%",
+		"priceTrend": "up"
+	}, {
+		"id": 5,
+		"name": "Amazon",
+		"code": "AMZN",
+		"priceMovement": "0.25%",
+		"priceTrend": "down"
 	}]
 }
