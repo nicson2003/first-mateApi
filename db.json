@@ -1,31 +1,11 @@
- {
-    "labels": ["January", "February", "March", "April", "May", "June"],
-    "datasets": [{
-      "data": [
-        50,
-        20,
-        2,
-        86,
-        71,
-        100
-      ]
-    },{
-      "data": [
-        20,
-        10,
-        4,
-        56,
-        87,
-        90
-      ]
-    },{
-      "data": [
-        30,
-        90,
-        67,
-        54,
-        10,
-        2
-      ]
-    }]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
