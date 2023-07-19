@@ -55,7 +55,35 @@
 			"amount": "$42,130"
 		}
 	],
-	"liabilities": {
-		"name": "typicode"
-	}
+	"liabilities": [{
+		"id": 1,
+		"accountName": "BANK OF AMERICA",
+		"accountType": "Travel Credit Card",
+		"amount": "$1,200"
+	}],
+	"expenses": [{
+		"id": 1,
+		"accountName": "HOME & UTILITIES",
+		"amount": "$1,200"
+	}, {
+		"id": 2,
+		"accountName": "TRAVEL",
+		"amount": "$500"
+	}, {
+		"id": 3,
+		"accountName": "RIDE SHARING",
+		"amount": "$430"
+	}, {
+		"id": 4,
+		"accountName": "DRINK",
+		"amount": "$132"
+	}, {
+		"id": 5,
+		"accountName": "GROCERIES",
+		"amount": "$2,730"
+	}, {
+		"id": 6,
+		"accountName": "RENT",
+		"amount": "$1,860"
+	}]
 }
