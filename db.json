@@ -85,27 +85,27 @@
 	}],
 	"expenses": [{
 		"id": 1,
-		"accountName": "HOME & UTILITIES",
+		"name": "HOME & UTILITIES",
 		"amount": "$1,200"
 	}, {
 		"id": 2,
-		"accountName": "TRAVEL",
+		"name": "TRAVEL",
 		"amount": "$500"
 	}, {
 		"id": 3,
-		"accountName": "RIDE SHARING",
+		"name": "RIDE SHARING",
 		"amount": "$430"
 	}, {
 		"id": 4,
-		"accountName": "DRINK",
+		"name": "DRINK",
 		"amount": "$132"
 	}, {
 		"id": 5,
-		"accountName": "GROCERIES",
+		"name": "GROCERIES",
 		"amount": "$2,730"
 	}, {
 		"id": 6,
-		"accountName": "RENT",
+		"name": "RENT",
 		"amount": "$1,860"
 	}]
 }
