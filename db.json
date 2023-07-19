@@ -7,28 +7,55 @@
 		},
 		{
 			"id": 2,
-			"accountName": "BANK OF AMERICA",
+			"accountName": "ROBINHOOD",
 			"accountType": "Robinhood Cash",
 			"amount": "$7,123"
 		},
 		{
 			"id": 3,
-			"accountName": "BANK OF AMERICA",
+			"accountName": "WELTHFRONT",
 			"accountType": "Personal Savings",
 			"amount": "$9,2875"
 		},
 		{
 			"id": 4,
-			"accountName": "BANK OF AMERICA",
+			"accountName": "COINBASE PRO",
 			"accountType": "Coinbase USD",
 			"amount": "$15,712"
 		}
 	],
 	"investments": [{
-		"id": 1,
-		"title": "hello"
-	}],
-	"profile": {
+			"id": 1,
+			"accountName": "WELTHFRONT",
+			"accountType": "Personal Savings",
+			"amount": "$9,875"
+		},
+		{
+			"id": 2,
+			"accountName": "BANK OF AMERICA",
+			"accountType": "BofA Checkings",
+			"amount": "$12,030"
+		},
+		{
+			"id": 3,
+			"accountName": "COINBASE PRO",
+			"accountType": "Personal Crypto",
+			"amount": "$15,030"
+		},
+		{
+			"id": 4,
+			"accountName": "FIDELITY",
+			"accountType": "401(k)",
+			"amount": "$12,030"
+		},
+		{
+			"id": 5,
+			"accountName": "CHARLES SCHWAB",
+			"accountType": "231 Brokerage",
+			"amount": "$42,130"
+		}
+	],
+	"liabilities": {
 		"name": "typicode"
 	}
 }
