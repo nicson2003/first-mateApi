@@ -65,22 +65,22 @@
 		"id": 1,
 		"name": "Proper SF Hotel San Francisco",
 		"amount": "$55",
-		"date": "Mar 30, 2023"
+		"date": "Mar 30"
 	}, {
 		"id": 2,
 		"name": "The Grind Cafe San Francisco",
 		"amount": "$26.39",
-		"date": "Mar 30, 2023"
+		"date": "Mar 30"
 	}, {
 		"id": 3,
 		"name": "Payment Recieved - Mark Cuban",
 		"amount": "$14.99",
-		"date": "Mar 30, 2023"
+		"date": "Mar 30"
 	}, {
 		"id": 4,
 		"name": "Prime Video *MW30C9AK",
 		"amount": "$15.99",
-		"date": "Mar 28, 2023"
+		"date": "Mar 28"
 
 	}],
 	"expenses": [{
